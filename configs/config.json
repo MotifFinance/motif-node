@@ -1,0 +1,34 @@
+{
+    "env": "dev",
+    "DB_port": "5432",
+    "DB_host": "localhost",
+    "DB_user": "forkscanner",
+    "DB_password" : "forkscanner",
+    "DB_name" : "eigenavs",
+
+    "btc_node_host" : "147.182.155.20:38332",
+    "btc_node_user" : "bitcoin",
+    "btc_node_pass" : "Persario_1",
+    "btc_node_protocol" : "http://",
+    "fee_rate_adjustment" : "10",
+    "wallet_name": "bitdsm2",
+    "btc_xpublic_key": "[aba9403b/84h/1h/0h]tpubDDWrtj9UoLPmCkWC6PMAWQzKi1acucimmw2XB33QjabqYtEUNWgFGxxcKK7dQVeZkNfEaKYSaqVFLcsVJEKyMdVATZucXB1ooBX81PSYQPv/0/*",
+
+    "multisig_signing_wallet_name": "bitdsm",
+    "multisig_btc_node": "147.182.155.20:38332",
+    "multisig_btc_user": "bitcoin",
+    "multisig_btc_pass": "Persario_1",
+    "multisig_btc_protocol": "http://",
+
+    "eth_rpc_host" : "https://holesky.infura.io/v3/e1dca20d79ba4d0d8f902572f1474105",
+    "eth_ws_host" :"wss://holesky.infura.io/ws/v3/e1dca20d79ba4d0d8f902572f1474105",
+    "eth_keystore_dir": "../wallet/keystore",
+    "eth_keystore_passphrase": "Persario_1",
+
+    "opr_metadata_uri" : "",
+    "eigen_delegation_manager_address" : "0xA44151489861Fe9e3055d95adC98FbD462B948e7",
+    "bitdsm_registry_address": "0xFFC68bC3b08aabe85ad5Abe398e9fD4eAAb5A231",
+    "service_manager_address": "0x3731386EfC594188658E4879aE31620FAe1d30A0",
+    "eigen_avs_directory_address": "0x055733000064333CaDDbC92763c58BF0192fFeBf",
+    "pod_manager_address": "0x1b3c346924829839f124FCad01da6605A7F83A97"
+}
