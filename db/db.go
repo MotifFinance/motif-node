@@ -6,7 +6,8 @@ import (
 	"log"
 	"math/big"
 
-	"github.com/BitDSM/BitDSM-Node/types"
+	"github.com/MotifFinance/motif-node/types"
+
 	"github.com/spf13/viper"
 )
 

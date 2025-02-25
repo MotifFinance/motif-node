@@ -8,9 +8,10 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/BitDSM/BitDSM-Node/PodManager"
-	"github.com/BitDSM/BitDSM-Node/address"
-	"github.com/BitDSM/BitDSM-Node/db"
+	"github.com/MotifFinance/motif-node/PodManager"
+	"github.com/MotifFinance/motif-node/address"
+	"github.com/MotifFinance/motif-node/db"
+
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/ethclient"

@@ -1,4 +1,4 @@
-module github.com/BitDSM/BitDSM-Node
+module github.com/MotifFinance/motif-node
 
 go 1.22.1
 

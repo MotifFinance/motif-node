@@ -5,9 +5,10 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/BitDSM/BitDSM-Node/db"
-	"github.com/BitDSM/BitDSM-Node/ethComms"
-	"github.com/BitDSM/BitDSM-Node/utils"
+	"github.com/MotifFinance/motif-node/db"
+	"github.com/MotifFinance/motif-node/ethComms"
+	"github.com/MotifFinance/motif-node/utils"
+
 	"github.com/btcsuite/btcd/chaincfg"
 	"github.com/btcsuite/btcd/txscript"
 	"github.com/spf13/viper"
